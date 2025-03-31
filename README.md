@@ -1,5 +1,7 @@
 # 🔧 PC Gaming Sobremesa - Intel Core i5 + RTX 4060
 
+</br>
+
 # PASO 1: ELEGIR LA CPU (PROCESADOR)
 
 ![Procesador](https://tse2.mm.bing.net/th?id=OIP._skXDzydLwHaO0D25uub0AHaHa&pid=Api&P=0&h=180)
@@ -65,6 +67,8 @@ La **Gigabyte GeForce RTX 4060 EAGLE OC 8GB** proporciona gran rendimiento gráf
 </br></br></br>
 
 # 🔧 PC Gaming Sobremesa - AMD Ryzen 5 5600X + RTX 4060
+
+</br>
 
 # PASO 1: ELEGIR LA CPU (PROCESADOR)
 
