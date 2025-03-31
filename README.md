@@ -52,7 +52,7 @@ La **Gigabyte GeForce RTX 4060 EAGLE OC 8GB** proporciona gran rendimiento gráf
 | Tarjeta gráfica       | 349,95 € |
 | **PRECIO TOTAL DEL PC** | **861 €** |
 
-</br></br></br></br>
+</br></br></br>
 
 # PASO 1: ELEGIR LA CPU (PROCESADOR)
 
